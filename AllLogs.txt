@@ -1,0 +1,149 @@
+Before navigating to: 'https://cirosantilli-realworld-next.herokuapp.com/'
+Navigated to:'https://cirosantilli-realworld-next.herokuapp.com/'
+Trying to find Element By : By.xpath: //a[.='Sign in']
+Found Element By : By.xpath: //a[.='Sign in']
+Trying to find Element By : By.xpath: //a[.='Sign in']
+Found Element By : By.xpath: //a[.='Sign in']
+Trying to find Element By : By.xpath: //a[.='Sign in']
+Found Element By : By.xpath: //a[.='Sign in']
+Trying to find Element By : By.xpath: //a[.='Sign in']
+Found Element By : By.xpath: //a[.='Sign in']
+Trying to click on: [[ChromeDriver: chrome on WINDOWS (9b0a27ac48a4ad5fdbbfd0b10f88bd78)] -> xpath: //a[.='Sign in']]
+Clicked on: [[ChromeDriver: chrome on WINDOWS (9b0a27ac48a4ad5fdbbfd0b10f88bd78)] -> xpath: //a[.='Sign in']]
+Trying to find Element By : By.xpath: //input[@placeholder='Email']
+Found Element By : By.xpath: //input[@placeholder='Email']
+Trying to find Element By : By.xpath: //input[@placeholder='Email']
+Found Element By : By.xpath: //input[@placeholder='Email']
+Trying to find Element By : By.xpath: //input[@placeholder='Email']
+Found Element By : By.xpath: //input[@placeholder='Email']
+Trying to find Element By : By.xpath: //input[@placeholder='Email']
+Found Element By : By.xpath: //input[@placeholder='Email']
+Trying to find Element By : By.xpath: //input[@placeholder='Password']
+Found Element By : By.xpath: //input[@placeholder='Password']
+Trying to find Element By : By.xpath: //input[@placeholder='Password']
+Found Element By : By.xpath: //input[@placeholder='Password']
+Trying to find Element By : By.xpath: //input[@placeholder='Password']
+Found Element By : By.xpath: //input[@placeholder='Password']
+Trying to find Element By : By.xpath: //input[@placeholder='Password']
+Found Element By : By.xpath: //input[@placeholder='Password']
+Trying to find Element By : By.xpath: //button[.='Sign in']
+Found Element By : By.xpath: //button[.='Sign in']
+Trying to find Element By : By.xpath: //a[contains(.,'New Article')]
+Found Element By : By.xpath: //a[contains(.,'New Article')]
+Trying to find Element By : By.xpath: //input[@placeholder='Article Title']
+Found Element By : By.xpath: //input[@placeholder='Article Title']
+Trying to find Element By : By.xpath: //input[@placeholder='Article Title']
+Found Element By : By.xpath: //input[@placeholder='Article Title']
+Trying to find Element By : By.xpath: //input[@placeholder='Article Title']
+Found Element By : By.xpath: //input[@placeholder='Article Title']
+Trying to find Element By : By.xpath: //input[@placeholder='Article Title']
+Found Element By : By.xpath: //input[@placeholder='Article Title']
+Trying to find Element By : By.xpath: (//input[@type='text'])[2]
+Found Element By : By.xpath: (//input[@type='text'])[2]
+Trying to find Element By : By.xpath: (//input[@type='text'])[2]
+Found Element By : By.xpath: (//input[@type='text'])[2]
+Trying to find Element By : By.xpath: (//input[@type='text'])[2]
+Found Element By : By.xpath: (//input[@type='text'])[2]
+Trying to find Element By : By.xpath: (//input[@type='text'])[2]
+Found Element By : By.xpath: (//input[@type='text'])[2]
+Trying to find Element By : By.xpath: //*[@placeholder='Write your article (in markdown)']
+Found Element By : By.xpath: //*[@placeholder='Write your article (in markdown)']
+Trying to find Element By : By.xpath: //*[@placeholder='Write your article (in markdown)']
+Found Element By : By.xpath: //*[@placeholder='Write your article (in markdown)']
+Trying to find Element By : By.xpath: //*[@placeholder='Write your article (in markdown)']
+Found Element By : By.xpath: //*[@placeholder='Write your article (in markdown)']
+Trying to find Element By : By.xpath: //*[@placeholder='Write your article (in markdown)']
+Found Element By : By.xpath: //*[@placeholder='Write your article (in markdown)']
+Trying to find Element By : By.xpath: //button[@type='button']
+Found Element By : By.xpath: //button[@type='button']
+Trying to find Element By : By.xpath: (//*[.='Home'])[2]
+Found Element By : By.xpath: (//*[.='Home'])[2]
+Trying to click on: [[ChromeDriver: chrome on WINDOWS (9b0a27ac48a4ad5fdbbfd0b10f88bd78)] -> xpath: (//*[.='Home'])[2]]
+Clicked on: [[ChromeDriver: chrome on WINDOWS (9b0a27ac48a4ad5fdbbfd0b10f88bd78)] -> xpath: (//*[.='Home'])[2]]
+Trying to find Element By : By.xpath: //*[.='Popular Tags']//following-sibling::div/a[1]
+Found Element By : By.xpath: //*[.='Popular Tags']//following-sibling::div/a[1]
+Trying to find Element By : By.xpath: //*[.='Popular Tags']//following-sibling::div/a[1]
+Found Element By : By.xpath: //*[.='Popular Tags']//following-sibling::div/a[1]
+Trying to find Element By : By.xpath: //*[.='Popular Tags']//following-sibling::div/a[1]
+Found Element By : By.xpath: //*[.='Popular Tags']//following-sibling::div/a[1]
+Trying to find Element By : By.xpath: //*[.='Popular Tags']//following-sibling::div/a[1]
+Found Element By : By.xpath: //*[.='Popular Tags']//following-sibling::div/a[1]
+Trying to find Element By : By.xpath: //*[.='Read more...']
+Found Element By : By.xpath: //*[.='Read more...']
+Trying to find Element By : By.xpath: //*[.='Read more...']
+Found Element By : By.xpath: //*[.='Read more...']
+Trying to find Element By : By.xpath: //*[@placeholder='Write a comment...']
+Found Element By : By.xpath: //*[@placeholder='Write a comment...']
+Trying to find Element By : By.xpath: //*[@placeholder='Write a comment...']
+Found Element By : By.xpath: //*[@placeholder='Write a comment...']
+Trying to find Element By : By.xpath: //*[@placeholder='Write a comment...']
+Found Element By : By.xpath: //*[@placeholder='Write a comment...']
+Trying to find Element By : By.xpath: //*[@placeholder='Write a comment...']
+Found Element By : By.xpath: //*[@placeholder='Write a comment...']
+Trying to find Element By : By.xpath: //button[.='Post Comment']
+Found Element By : By.xpath: //button[.='Post Comment']
+Scrolling to the Eelement[[ChromeDriver: chrome on WINDOWS (9b0a27ac48a4ad5fdbbfd0b10f88bd78)] -> xpath: //button[.='Post Comment']]
+Trying to find Element By : By.xpath: //button[.='Post Comment']
+Found Element By : By.xpath: //button[.='Post Comment']
+Trying to find Element By : By.xpath: //button[.='Post Comment']
+Found Element By : By.xpath: //button[.='Post Comment']
+Trying to find Element By : By.xpath: (//i[@class='ion-plus-round'])[1]/..
+Found Element By : By.xpath: (//i[@class='ion-plus-round'])[1]/..
+Trying to find Element By : By.xpath: (//i[@class='ion-plus-round'])[1]/..
+Found Element By : By.xpath: (//i[@class='ion-plus-round'])[1]/..
+Trying to find Element By : By.xpath: (//i[@class='ion-plus-round'])[1]/..
+Found Element By : By.xpath: (//i[@class='ion-plus-round'])[1]/..
+selectFollow  Unfollow last1
+Trying to find Element By : By.xpath: (//i[@class='ion-plus-round'])[1]/..
+Found Element By : By.xpath: (//i[@class='ion-plus-round'])[1]/..
+selectFollow1  Unfollow last1
+Trying to find Element By : By.xpath: (//i[@class='ion-plus-round'])[1]/..
+Found Element By : By.xpath: (//i[@class='ion-plus-round'])[1]/..
+Trying to find Element By : By.xpath: (//i[@class='ion-heart'])[1]/..
+Found Element By : By.xpath: (//i[@class='ion-heart'])[1]/..
+Trying to find Element By : By.xpath: (//i[@class='ion-heart'])[1]/..
+Found Element By : By.xpath: (//i[@class='ion-heart'])[1]/..
+Trying to find Element By : By.xpath: (//*[.='Home'])[2]
+Found Element By : By.xpath: (//*[.='Home'])[2]
+Scrolling to the Eelement[[ChromeDriver: chrome on WINDOWS (9b0a27ac48a4ad5fdbbfd0b10f88bd78)] -> xpath: (//*[.='Home'])[2]]
+Trying to find Element By : By.xpath: (//*[.='Home'])[2]
+Found Element By : By.xpath: (//*[.='Home'])[2]
+Trying to find Element By : By.xpath: (//i[@class='ion-heart'])[1]/..
+Found Element By : By.xpath: (//i[@class='ion-heart'])[1]/..
+selectFavorite Article (2)
+Trying to find Element By : By.xpath: (//i[@class='ion-heart'])[1]/..
+Found Element By : By.xpath: (//i[@class='ion-heart'])[1]/..
+unselectFavorite Article (2)
+Trying to find Element By : By.xpath: (//i[@class='ion-heart'])[1]/..
+Found Element By : By.xpath: (//i[@class='ion-heart'])[1]/..
+Trying to find Element By : By.xpath: //a[contains(.,'Settings')]
+Found Element By : By.xpath: //a[contains(.,'Settings')]
+Trying to find Element By : By.xpath: //a[contains(.,'Settings')]
+Found Element By : By.xpath: //a[contains(.,'Settings')]
+Trying to find Element By : By.xpath: //a[contains(.,'Settings')]
+Found Element By : By.xpath: //a[contains(.,'Settings')]
+Trying to find Element By : By.xpath: //a[contains(.,'Settings')]
+Found Element By : By.xpath: //a[contains(.,'Settings')]
+Trying to find Element By : By.xpath: //button[@class='btn btn-outline-danger']
+Found Element By : By.xpath: //button[@class='btn btn-outline-danger']
+Scrolling to the Eelement[[ChromeDriver: chrome on WINDOWS (9b0a27ac48a4ad5fdbbfd0b10f88bd78)] -> xpath: //button[@class='btn btn-outline-danger']]
+Trying to find Element By : By.xpath: //button[@class='btn btn-outline-danger']
+Found Element By : By.xpath: //button[@class='btn btn-outline-danger']
+Trying to find Element By : By.xpath: //button[@class='btn btn-outline-danger']
+Found Element By : By.xpath: //button[@class='btn btn-outline-danger']
+Trying to find Element By : By.xpath: //button[@class='btn btn-outline-danger']
+Found Element By : By.xpath: //button[@class='btn btn-outline-danger']
+Trying to find Element By : By.xpath: //button[@class='btn btn-outline-danger']
+Found Element By : By.xpath: //button[@class='btn btn-outline-danger']
+Trying to find Element By : By.xpath: //button[@class='btn btn-outline-danger']
+Found Element By : By.xpath: //button[@class='btn btn-outline-danger']
+<<<<<<<<<browser close>>>>>>>>>>>>>
+===========================================================
+Test Case Executed Sucesfully,Test Name is:	feature
+===========================================================
+
+===============================================
+QureAiTest Suite
+Total tests run: 1, Failures: 0, Skips: 0
+===============================================
+
